@@ -1,0 +1,33 @@
+Jenkins is an automation tool 
+jenkins automating ?
+Is an open source continuous integration (CI) tool written in java.
+
+How do you use Jenkins for CI/CD automation ?
+In Landmark, we manage federated JAVA based web & enterprise applications (web.ear)
+for Rintec Clients DOD E-commerce.
+
+FinTech = Financial Technology :
+	Banka
+	Insurance
+	Payment Gatwys = paypal, visa, master, interac, pushpay, cashapp, zelle mobileMoney
+	
+	E-commerce  =  amazon, ebay, alibaba,
+	Telecoms  = MTN, Vadofone, Glo, Veriozon, Technology,etc.
+	Retail stores = Walmart, cotsco
+	Airlines companies
+	Sports
+	Crypto = coinbase, FTX
+	
+	What is the difference between github and nexus?
+		from infrastructure perspective github 
+				GITHUB IS A SCM TOOL
+				Nexus is an Artifactory
+			Vendor:
+				GITHUB IS OWNED BY Microsoft
+				Nexus is owmed by Sonatype Nexus
+				
+		Jenkins, is an open source continuous Integration (CI/CD) tool written in java
+		JENKINS CAN BE INSTALLED IN MULTIPLE PLATFORM
+				Linux
+				Windows
+				MacOS
